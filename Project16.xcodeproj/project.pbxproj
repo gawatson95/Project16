@@ -13,6 +13,8 @@
 		C087FE1228F89B790070C6BA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C087FE1028F89B790070C6BA /* Main.storyboard */; };
 		C087FE1428F89B7A0070C6BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C087FE1328F89B7A0070C6BA /* Assets.xcassets */; };
 		C087FE1728F89B7A0070C6BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C087FE1528F89B7A0070C6BA /* LaunchScreen.storyboard */; };
+		C087FE1F28F89D6A0070C6BA /* Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = C087FE1E28F89D6A0070C6BA /* Capital.swift */; };
+		C087FE2128F8A74C0070C6BA /* CapitalWiki.swift in Sources */ = {isa = PBXBuildFile; fileRef = C087FE2028F8A74C0070C6BA /* CapitalWiki.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		C087FE1328F89B7A0070C6BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C087FE1628F89B7A0070C6BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C087FE1828F89B7A0070C6BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C087FE1E28F89D6A0070C6BA /* Capital.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Capital.swift; sourceTree = "<group>"; };
+		C087FE2028F8A74C0070C6BA /* CapitalWiki.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapitalWiki.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				C087FE0A28F89B790070C6BA /* AppDelegate.swift */,
 				C087FE0C28F89B790070C6BA /* SceneDelegate.swift */,
 				C087FE0E28F89B790070C6BA /* ViewController.swift */,
+				C087FE1E28F89D6A0070C6BA /* Capital.swift */,
+				C087FE2028F8A74C0070C6BA /* CapitalWiki.swift */,
 				C087FE1028F89B790070C6BA /* Main.storyboard */,
 				C087FE1328F89B7A0070C6BA /* Assets.xcassets */,
 				C087FE1528F89B7A0070C6BA /* LaunchScreen.storyboard */,
@@ -140,6 +146,8 @@
 			files = (
 				C087FE0F28F89B790070C6BA /* ViewController.swift in Sources */,
 				C087FE0B28F89B790070C6BA /* AppDelegate.swift in Sources */,
+				C087FE1F28F89D6A0070C6BA /* Capital.swift in Sources */,
+				C087FE2128F8A74C0070C6BA /* CapitalWiki.swift in Sources */,
 				C087FE0D28F89B790070C6BA /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
